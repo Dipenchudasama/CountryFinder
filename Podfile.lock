@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ReachabilitySwift (5.0.0)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+  - SDWebImage/Core (5.6.0)
+  - SDWebImageSVGCoder (1.5.0):
+    - SDWebImage/Core (~> 5.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - ReachabilitySwift
+  - RealmSwift (~> 4.3.2)
+  - SDWebImageSVGCoder (~> 1.5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SDWebImageSVGCoder
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+  SDWebImage: 21b19f56b4226cdfe3aefe4e6848dc43ed129a86
+  SDWebImageSVGCoder: 057f61bd29c13aea7ddf9b5b0e23c34bcd2fba21
+
+PODFILE CHECKSUM: f2d7a0cb35977ba2c41345379df6187b8e23c502
+
+COCOAPODS: 1.9.0.beta.3
